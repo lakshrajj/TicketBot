@@ -44,7 +44,7 @@ A comprehensive Discord ticket management system designed specifically for rolep
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/samatva-ticket-bot.git
+   git clone https://github.com/lakshrajj/ticketbot.git
    cd samatva-ticket-bot
    ```
 
