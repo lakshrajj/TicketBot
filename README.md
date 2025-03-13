@@ -1,6 +1,6 @@
-# Samatva RP Discord Ticket Bot
+# Discord Ticket Bot
 
-A comprehensive Discord ticket management system designed specifically for roleplay servers. This bot provides a fully-featured ticket system with multiple support categories, smart staff reminders, and beautiful HTML transcripts.
+A comprehensive Discord ticket management system designed specifically for servers. This bot provides a fully-featured ticket system with multiple support categories, smart staff reminders, and beautiful HTML transcripts.
 
 ![Discord Ticket System](https://i.imgur.com/placeholder.png)
 
